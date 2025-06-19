@@ -1,5 +1,5 @@
 # 3D Solar System
-
+![Image](https://github.com/user-attachments/assets/30c00094-64b2-46eb-8d33-c76d19646f85)
 This project is an interactive 3D visualization of the Solar System built using [Three.js](https://threejs.org/). It allows users to explore the planets orbiting the Sun, control their orbital speeds, and focus the camera on individual planets. The simulation is rendered in real-time in the browser.
 
 ## Features
